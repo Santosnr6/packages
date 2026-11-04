@@ -1,0 +1,4 @@
+{
+    "name" : "@project-name/router",
+    "main" : "./index.ts"
+}

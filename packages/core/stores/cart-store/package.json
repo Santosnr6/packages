@@ -1,0 +1,4 @@
+{
+    "name" : "@project-name/cart-store",
+    "main" : "./index.ts"
+}

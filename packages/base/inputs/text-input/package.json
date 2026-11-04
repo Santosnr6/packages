@@ -1,0 +1,4 @@
+{
+    "name" : "@project-name/text-input",
+    "main" : "./index.ts"
+}

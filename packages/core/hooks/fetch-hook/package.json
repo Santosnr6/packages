@@ -1,0 +1,4 @@
+{
+    "name" : "@project-name/fetch-hook",
+    "main" : "./index.ts"
+}

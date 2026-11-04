@@ -1,0 +1,4 @@
+{
+    "name" : "@project-name/product-page",
+    "main" : "./index.ts"
+}
