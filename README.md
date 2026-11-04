@@ -23,7 +23,7 @@ Nedan visas hela strukturen under `packages/`. `package.json` beskriver respekti
 
 ```text
 packages/
-├── base/                                      # Grundläggande UI-byggstenar
+├── base/ # Grundläggande UI-byggstenar
 │   ├── button/
 │   │   ├── package.json
 │   │   ├── index.ts
@@ -49,7 +49,7 @@ packages/
 │       └── ui/
 │           ├── index.tsx
 │           └── index.css
-├── core/                                      # Centrala funktioner och tjänster
+├── core/ # Centrala funktioner och tjänster
 │   ├── hooks/
 │   │   ├── fetch-hook/
 │   │   │   ├── package.json
@@ -79,14 +79,14 @@ packages/
 │       ├── theme.css
 │       ├── typography.css
 │       └── variables.css
-├── pages/                                     # Sidor och sidinnehåll
+├── pages/ # Sidor och sidinnehåll
 │   ├── home-page/
 │   │   ├── package.json
 │   │   ├── index.ts
 │   │   ├── ui/
 │   │   │   ├── index.tsx
 │   │   │   └── index.css
-│   │   └── children/                          # Komponenter knutna till home-page
+│   │   └── children/ # Komponenter knutna till home-page
 │   │       ├── home-page-hero/
 │   │       │   ├── package.json
 │   │       │   ├── index.ts
@@ -105,7 +105,7 @@ packages/
 │       └── ui/
 │           ├── index.tsx
 │           └── index.css
-└── shared/                                    # Återanvändbara packages
+└── shared/ # Återanvändbara packages
     ├── contact-form/
     │   ├── package.json
     │   ├── index.ts
